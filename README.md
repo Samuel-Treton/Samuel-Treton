@@ -1,6 +1,6 @@
 - 😄 Hi! I’m @Samuel-Treton
-- 🐺 I’m interested in reaction-diffusion equation in mathematical biologgy
-- 🌱 I’m currently PhD student at the university of Rouen (Normandy, France)
+- 🐺 I’m interested in reaction-diffusion equations, particles systems, individual/collective motions in mathematical biologgy
+- 🌱 I’m currently postdoctoral researcher at theUniversity of Western Brittany (Brest, France)
 - 👀 If you don't have yet, have a look on my [website](https://www.samueltreton.fr)
 
 <!---

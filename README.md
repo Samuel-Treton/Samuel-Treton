@@ -1,6 +1,6 @@
 - 😄 Hi! I’m @Samuel-Treton
 - 🐺 I’m interested in reaction-diffusion equations, particles systems, individual/collective motions in mathematical biologgy
-- 🌱 I’m currently postdoctoral researcher at theUniversity of Western Brittany (Brest, France)
+- 🌱 I am currently an Associate Professor in Applied Mathematics at Nantes Université, affiliated with the Laboratoire de Mathématiques Jean Leray.
 - 👀 If you don't have yet, have a look on my [website](https://www.samueltreton.fr)
 
 <!---
